@@ -40,6 +40,7 @@ public class Authentication {
         //授权角色
         subject.checkRoles("admin","user1");
 
+
     }
 
 

@@ -23,6 +23,12 @@
             <artifactId>junit</artifactId>
             <version>RELEASE</version>
         </dependency>
+        <!--引入slf4j-->
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-log4j12</artifactId>
+            <version>1.7.25</version>
+        </dependency>
     </dependencies>
 
     <!--采用国内阿里云的maven镜像-->
